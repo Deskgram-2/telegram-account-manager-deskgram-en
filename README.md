@@ -37,6 +37,14 @@ Account Manager is the Deskgram 2 workspace for adding, organizing, filtering, a
 
 ![Accounts List Main](assets/screenshots/accounts-list__main__en.png)
 
+### Account actions
+
+![Accounts Actions](assets/screenshots/accounts-list__actions__en.png)
+
+### Filters
+
+![Accounts Filters](assets/screenshots/accounts-list__filters__en.png)
+
 ## When it is especially useful
 
 - when many Telegram accounts are handled in one workspace;
