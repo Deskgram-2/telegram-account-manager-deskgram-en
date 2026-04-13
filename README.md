@@ -31,6 +31,14 @@ Account Manager is the Deskgram 2 workspace for adding, organizing, filtering, a
 3. Apply filters to review the needed subset.
 4. Use the prepared account grid in invite, messaging, or parsing workflows.
 
+## Where these prepared accounts usually go next
+
+- [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en), if account participation in communities comes first;
+- [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en), if the next step is building a usable user base;
+- [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en), if the accounts are being prepared for outreach;
+- [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en), if the audience base is ready and growth is the goal;
+- [Neuro Commenting](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-en), if the accounts are moving into AI-assisted activity.
+
 ## Interface highlight
 
 ### Main account table
@@ -68,6 +76,9 @@ Account Manager is the Deskgram 2 workspace for adding, organizing, filtering, a
 - [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en)
 - [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en)
 - [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en)
+- [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en)
+- [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en)
+- [Neuro Commenting](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-en)
 
 ## FAQ
 
