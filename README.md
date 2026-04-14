@@ -70,6 +70,22 @@ Account Manager is the Deskgram 2 workspace for adding, organizing, filtering, a
 | It is hard to keep infrastructure tidy | The panel acts as a stable control layer |
 | Other modules start from a messy base | The workspace is prepared before execution |
 
+## Use cases
+
+- preparing separate account segments for [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en), [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en), and [Neuro Commenting](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-en);
+- splitting active and reserve grids before large campaigns;
+- preparing the account layer before [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en), settings work, or execution modules;
+- organizing accounts by folders, teams, or use case when several Deskgram 2 workflows run side by side.
+
+## What to choose: Account Manager or Task Manager
+
+| If your goal is | Better fit |
+|---|---|
+| Prepare and structure the account base | `Account Manager` |
+| Watch running processes and execution states | [Task Manager](https://github.com/Deskgram-2/telegram-task-manager-deskgram-en) |
+| Build a subset of accounts for a specific launch | `Account Manager` |
+| Monitor live errors, progress, and completed runs | [Task Manager](https://github.com/Deskgram-2/telegram-task-manager-deskgram-en) |
+
 ## Related repositories
 
 - [Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en)
