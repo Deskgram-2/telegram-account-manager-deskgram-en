@@ -1,15 +1,15 @@
-# Telegram Account Manager with Deskgram 2
+﻿# Telegram Account Manager with Deskgram 2
 
 ![Account Manager Main](assets/screenshots/accounts-list__main__en.png)
 
 Account Manager is the Deskgram 2 workspace for adding, organizing, filtering, and controlling Telegram accounts. It is the infrastructure layer that helps keep account grids usable before you move into invite, messaging, parsing, or AI-driven scenarios.
 
-[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) | [Website](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview)
+[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) | [Website](https://deskgram2.com/) | [Telegram Bot](https://t.me/DG2welcomebot) | [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=en)
 ## Interactive Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Faccounts)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Faccounts&lang=en)
 
-Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Faccounts)
+Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Faccounts&lang=en)
 
 
 
@@ -112,3 +112,4 @@ No. It becomes especially useful at scale, but the same structure helps smaller 
 ### Why is it important before running modules?
 
 Because clean account preparation reduces chaos in downstream workflows.
+
